@@ -1,0 +1,37 @@
+body{
+    background-color: #e4f9f5;
+}
+
+hr {
+    border: 5px solid #fae3d9;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.par {
+    color: #52616b;
+    font-size: 18px ;
+}
+
+.heading-top {
+    font-size: 40px;
+    color: #40514e;
+}
+
+.heading-middle {
+    font-size: 30px;
+    color: #40514e;
+}
+
+table {
+    background-color: #ffb6b9;
+    border:  #ffb6b9 5px solid;
+}
+
+th, td {
+    border: #52616b 3px solid;
+    background-color: #e4f9f5;
+    
+}
